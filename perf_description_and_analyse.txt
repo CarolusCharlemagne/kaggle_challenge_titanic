@@ -1,0 +1,25 @@
+nom: model_dumb_complet
+submission: dumb_test_complet.csv
+performance: 0.75358
+Description: modèle hyper basique, aucune visualisation si ce n'est .head(). Pour le prétraitement des variables numériques; utilisation de SimpleImputer permettant de remplacer les valeurs manquantes par la médiane de ces valeurs (strategy="median"). Pour les variables catégorielles création d'une chaine de traitement commençant par SimpleImputer(strategy="most_frequent") pour remplacer les valeurs manquantes par les plus fréquentes, puis OneHotEncoder, transformant ainsi les valeurs catégorielles en valeurs numériques, on ignore ici les valeurs inconnues.
+
+
+
+---------------------------------------------------
+
+nom: 
+submission: 
+performance: 
+Description:
+
+
+---------------------------------------------------
+
+nom: 
+submission: 
+performance: 
+Description:
+
+
+---------------------------------------------------
+
