@@ -7,10 +7,10 @@ Description: modèle hyper basique, aucune visualisation si ce n'est .head(). Po
 
 ---------------------------------------------------
 
-nom: 
-submission: 
-performance: 
-Description:
+nom: model_randomForestClassifier
+submission: 0_model_randomForestClassifier.csv
+performance: 0.76315
+Description: Random forest classifier, meilleur dataviz
 
 
 ---------------------------------------------------
