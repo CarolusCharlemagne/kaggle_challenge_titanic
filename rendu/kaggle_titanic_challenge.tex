@@ -15,6 +15,7 @@
 \usepackage{mdframed}
 \usepackage{amsmath}
 \usepackage{hyperref}
+\usepackage{multirow}
 \geometry{a4paper, left=2cm, right=2cm, top=2cm, bottom=2cm}
 
 % traitement du langage python:
@@ -217,6 +218,31 @@ s'améliorer dans ce challenge, je me suis aperçu que des arbres de décisions 
 Je suis persuadé qu'avec un meilleur prétraitement des données, comme dans cet exemple \\
 (https://www.kaggle.com/code/vbmokin/titanic-top-3-cluster-analysis/notebook), et le modèle GBT, nous\\ 
 pourrions faire un meilleur score
+
+\clearpage
+\section{\textcolor{section}{Résultats}}
+
+\begin{figure}[htbp]
+    \centering
+    \begin{adjustbox}{width=1\linewidth}
+    \includegraphics[width=1\linewidth, angle=0]{/home/charlemagne/workspace/kaggle_challenge_titanic/img/learning_curve.png}
+    \end{adjustbox}
+\end{figure}
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{|l|c|c|}
+    \hline
+    \multirow{2}{*}{Métrique} & Avant amélioration & Après améliorations \\ \cline{2-3} 
+                               & Valeur             & Valeur              \\ \hline
+    Accuracy                   & 0.8967             & 0.9383              \\ \hline
+    ROC AUC                    & 0.9537             & 0.9851              \\ \hline
+    F1 Score                   & 0.8571             & 0.9163              \\ \hline
+    Specificity                & 0.9526             & 0.9745              \\ \hline
+    \end{tabular}
+    \caption{Comparaison des métriques avant et après améliorations}
+    \label{tab:results}
+    \end{table}
 
 \end{document}
 

@@ -1,13 +1,14 @@
 # Fdb version 3
-["pdflatex"] 1706882238 "/home/charlemagne/workspace/kaggle_challenge_titanic/rendu/kaggle_titanic_challenge.tex" "kaggle_titanic_challenge.pdf" "kaggle_titanic_challenge" 1706882239
+["pdflatex"] 1708512279 "/home/charlemagne/workspace/kaggle_challenge_titanic/rendu/kaggle_titanic_challenge.tex" "kaggle_titanic_challenge.pdf" "kaggle_titanic_challenge" 1708512280
   "/etc/texmf/web2c/texmf.cnf" 1699446959 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/charlemagne/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1699640740 11524 ab24884362682f4c47e826c9b3b26b9d ""
   "/home/charlemagne/workspace/kaggle_challenge_titanic/img/distrib_age.png" 1706432519 43910 e25982225dd4bdaa7ad8ec188f7baef9 ""
   "/home/charlemagne/workspace/kaggle_challenge_titanic/img/header.jpeg" 1706431756 28266 1b7034e5f1748c8e10e3a41a6fb9a716 ""
+  "/home/charlemagne/workspace/kaggle_challenge_titanic/img/learning_curve.png" 1708512029 115446 a2ce042cff48fad5da979bd31133e1fd ""
   "/home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_quantitatives.png" 1706432774 204093 f7f9964c4c90e1e24a06929b0efa2283 ""
   "/home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_survie_v2.png" 1706434703 534915 2da8f7ac3140fc19ddb5ac40ae5ad099 ""
   "/home/charlemagne/workspace/kaggle_challenge_titanic/img/position.png" 1706882198 240229 8a6c9feb4926e02f688dff492705dd82 ""
-  "/home/charlemagne/workspace/kaggle_challenge_titanic/rendu/kaggle_titanic_challenge.tex" 1706882238 9228 f230561ec64b71b7c66c12aee85b628a ""
+  "/home/charlemagne/workspace/kaggle_challenge_titanic/rendu/kaggle_titanic_challenge.tex" 1708512279 10257 a4dced8a66288db33935be3cd5b3dce2 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -207,6 +208,7 @@
   "/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty" 1585170648 77022 ee25ce086f4a79d8cf73bac6f94c02a5 ""
   "/usr/share/texlive/texmf-dist/tex/latex/mdframed/md-frame-0.mdf" 1372030994 24831 326d9f019009ed0c076106fa6cb860fb ""
   "/usr/share/texlive/texmf-dist/tex/latex/mdframed/mdframed.sty" 1372805434 53487 3e997243f47cb3ba8b4c7b8df9c82989 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty" 1615845910 6149 2398eec4faa1ee24ff761581e580ecf1 ""
   "/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty" 1364856750 852 0e34dbb72efc69fa07602405ad95585e ""
   "/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty" 1601326656 1090 bae35ef70b3168089ef166db3e66f5b2 ""
   "/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty" 1601326656 410 615550c46f918fcbee37641b02a862d9 ""
@@ -234,9 +236,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1699446963 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1704992121 1405647 ef28852721e2d22e9581c8373c2f33d1 ""
-  "kaggle_titanic_challenge.aux" 1706882239 1346 1054c7d93c71217ef15fc4fa3dc52c21 "pdflatex"
-  "kaggle_titanic_challenge.out" 1706882239 508 2a925d213a13422663de05988c38c711 "pdflatex"
-  "kaggle_titanic_challenge.tex" 1706882238 9228 f230561ec64b71b7c66c12aee85b628a ""
+  "kaggle_titanic_challenge.aux" 1708512280 1751 8373a3d0c2e65747c01bd2f4d72cf2df "pdflatex"
+  "kaggle_titanic_challenge.out" 1708512280 599 e85bc24199285cfcbdf6c197eba6f651 "pdflatex"
+  "kaggle_titanic_challenge.tex" 1708512279 10257 a4dced8a66288db33935be3cd5b3dce2 ""
   (generated)
   "kaggle_titanic_challenge.aux"
   "kaggle_titanic_challenge.log"

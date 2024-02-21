@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.11)  2 FEB 2024 14:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.1.11)  21 FEB 2024 11:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -643,23 +643,29 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip123
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip124
+\multirow@cntb=\count328
+\multirow@dima=\skip125
+\bigstrutjot=\dimen303
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count328
+\lst@mode=\count329
 \lst@gtempboxa=\box75
 \lst@token=\toks43
-\lst@length=\count329
-\lst@currlwidth=\dimen303
-\lst@column=\count330
-\lst@pos=\count331
-\lst@lostspace=\dimen304
-\lst@width=\dimen305
-\lst@newlines=\count332
-\lst@lineno=\count333
-\lst@maxwidth=\dimen306
+\lst@length=\count330
+\lst@currlwidth=\dimen304
+\lst@column=\count331
+\lst@pos=\count332
+\lst@lostspace=\dimen305
+\lst@width=\dimen306
+\lst@newlines=\count333
+\lst@lineno=\count334
+\lst@maxwidth=\dimen307
  (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count334
-\lst@skipnumbers=\count335
+\c@lstnumber=\count335
+\lst@skipnumbers=\count336
 \lst@framebox=\box76
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
@@ -673,36 +679,36 @@ LaTeX Warning: Unused global option(s):
 (./kaggle_titanic_challenge.aux)
 \openout1 = `kaggle_titanic_challenge.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count336
-\scratchdimen=\dimen307
+\scratchcounter=\count337
+\scratchdimen=\dimen308
 \scratchbox=\box77
-\nofMPsegments=\count337
-\nofMParguments=\count338
+\nofMPsegments=\count338
+\nofMParguments=\count339
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count339
-\MPscratchDim=\dimen308
-\MPnumerator=\count340
-\makeMPintoPDFobject=\count341
+\MPscratchCnt=\count340
+\MPscratchDim=\dimen309
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
 \everyMPtoPDFconversion=\toks45
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -746,7 +752,7 @@ Package pgfplots notification 'compat/show suggested version=true': you might be
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 64.
+Package hyperref Info: Link coloring OFF on input line 65.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -754,80 +760,88 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count342
+\c@section@level=\count343
 )
-LaTeX Info: Redefining \ref on input line 64.
-LaTeX Info: Redefining \pageref on input line 64.
-LaTeX Info: Redefining \nameref on input line 64.
+LaTeX Info: Redefining \ref on input line 65.
+LaTeX Info: Redefining \pageref on input line 65.
+LaTeX Info: Redefining \nameref on input line 65.
  (./kaggle_titanic_challenge.out) (./kaggle_titanic_challenge.out)
 \@outlinefile=\write4
 \openout4 = `kaggle_titanic_challenge.out'.
 
-\c@lstlisting=\count343
-LaTeX Font Info:    Trying to load font information for U+msa on input line 67.
+\c@lstlisting=\count344
+LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 67.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-</home/charlemagne/workspace/kaggle_challenge_titanic/img/header.jpeg, id=15, 715.17188pt x 150.5625pt>
+</home/charlemagne/workspace/kaggle_challenge_titanic/img/header.jpeg, id=19, 715.17188pt x 150.5625pt>
 File: /home/charlemagne/workspace/kaggle_challenge_titanic/img/header.jpeg Graphic file (type jpg)
 <use /home/charlemagne/workspace/kaggle_challenge_titanic/img/header.jpeg>
-Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/header.jpeg  used on input line 69.
+Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/header.jpeg  used on input line 70.
 (pdftex.def)             Requested size: 483.69687pt x 101.83205pt.
-</home/charlemagne/workspace/kaggle_challenge_titanic/img/position.png, id=16, 1465.475pt x 551.05875pt>
+</home/charlemagne/workspace/kaggle_challenge_titanic/img/position.png, id=20, 1465.475pt x 551.05875pt>
 File: /home/charlemagne/workspace/kaggle_challenge_titanic/img/position.png Graphic file (type png)
 <use /home/charlemagne/workspace/kaggle_challenge_titanic/img/position.png>
-Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/position.png  used on input line 75.
+Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/position.png  used on input line 76.
 (pdftex.def)             Requested size: 483.69687pt x 181.88358pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/charlemagne/workspace/kaggle_challenge_titanic/img/header.jpeg> </home/charlemagne/workspace/kaggle_challenge_titanic/img/position.png>]
-</home/charlemagne/workspace/kaggle_challenge_titanic/img/distrib_age.png, id=27, 1012.78375pt x 681.54625pt>
+</home/charlemagne/workspace/kaggle_challenge_titanic/img/distrib_age.png, id=31, 1012.78375pt x 681.54625pt>
 File: /home/charlemagne/workspace/kaggle_challenge_titanic/img/distrib_age.png Graphic file (type png)
 <use /home/charlemagne/workspace/kaggle_challenge_titanic/img/distrib_age.png>
-Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/distrib_age.png  used on input line 85.
+Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/distrib_age.png  used on input line 86.
 (pdftex.def)             Requested size: 217.66211pt x 146.46718pt.
-</home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_quantitatives.png, id=28, 698.61pt x 721.69624pt>
+</home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_quantitatives.png, id=32, 698.61pt x 721.69624pt>
 File: /home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_quantitatives.png Graphic file (type png)
 <use /home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_quantitatives.png>
-Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_quantitatives.png  used on input line 99.
+Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_quantitatives.png  used on input line 100.
 (pdftex.def)             Requested size: 483.69687pt x 499.68886pt.
  [2
 
  </home/charlemagne/workspace/kaggle_challenge_titanic/img/distrib_age.png> </home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_quantitatives.png>]
-</home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_survie_v2.png, id=37, 839.135pt x 791.95876pt>
+</home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_survie_v2.png, id=41, 839.135pt x 791.95876pt>
 File: /home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_survie_v2.png Graphic file (type png)
 <use /home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_survie_v2.png>
-Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_survie_v2.png  used on input line 117.
+Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_survie_v2.png  used on input line 118.
 (pdftex.def)             Requested size: 483.69687pt x 456.4966pt.
  (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 141.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 142.
  [3
 
  </home/charlemagne/workspace/kaggle_challenge_titanic/img/matrice_dispersion_survie_v2.png>] [4] [5
 
-] (./kaggle_titanic_challenge.aux)
+]
+</home/charlemagne/workspace/kaggle_challenge_titanic/img/learning_curve.png, id=114, 1509.64pt x 958.58125pt>
+File: /home/charlemagne/workspace/kaggle_challenge_titanic/img/learning_curve.png Graphic file (type png)
+<use /home/charlemagne/workspace/kaggle_challenge_titanic/img/learning_curve.png>
+Package pdftex.def Info: /home/charlemagne/workspace/kaggle_challenge_titanic/img/learning_curve.png  used on input line 228.
+(pdftex.def)             Requested size: 483.69687pt x 307.13257pt.
+ [6
+
+ </home/charlemagne/workspace/kaggle_challenge_titanic/img/learning_curve.png>] (./kaggle_titanic_challenge.aux)
 Package rerunfilecheck Info: File `kaggle_titanic_challenge.out' has not changed.
-(rerunfilecheck)             Checksum: 2A925D213A13422663DE05988C38C711;508.
+(rerunfilecheck)             Checksum: E85BC24199285CFCBDF6C197EBA6F651;599.
  ) 
 Here is how much of TeX's memory you used:
- 35805 strings out of 480247
- 820361 string characters out of 5896151
- 1631346 words of memory out of 5000000
- 53099 multiletter control sequences out of 15000+600000
+ 35889 strings out of 480247
+ 822240 string characters out of 5896151
+ 1631969 words of memory out of 5000000
+ 53175 multiletter control sequences out of 15000+600000
  477476 words of font info for 61 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 99i,9n,94p,805b,2099s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,11n,94p,805b,2099s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/charlemagne/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on kaggle_titanic_challenge.pdf (5 pages, 1015765 bytes).
+Output written on kaggle_titanic_challenge.pdf (6 pages, 1135508 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 126 compressed objects within 2 object streams
- 65 named destinations out of 1000 (max. 500000)
- 54 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 169 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
 
